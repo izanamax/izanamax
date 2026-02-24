@@ -1,4 +1,6 @@
-<div class="tenor-gif-embed" data-postid="12296838868765202823" data-share-method="host" data-aspect-ratio="1.76596" data-width="100%"><a href="https://tenor.com/view/max-verstappen-max-verstappen-donut-max-verstappen-abu-dhabi-max-verstappen-abu-dhabi-2023-max-verstappen-win-gif-12296838868765202823">Max Verstappen Max Verstappen Donut GIF</a>from <a href="https://tenor.com/search/max+verstappen-gifs">Max Verstappen GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<p align="center">
+  <img src="assets/max-donut.gif" width="100%" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Mussin Maxim</h1>
 <h3 align="center">A passionate frontend developer from Kazakhstan</h3>
