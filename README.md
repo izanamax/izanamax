@@ -33,7 +33,7 @@
 ### Backend & Databases
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/nestjs/nestjs-plain.svg" width="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/nestjs/nestjs-original.svg" width="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/>
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30"/>
