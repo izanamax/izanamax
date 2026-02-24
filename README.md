@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=izanamax&label=Profile%20views&color=0e75b6&style=flat" alt="izanamax" /> </p>
 
-- 🔭 I’m currently working in [Green Alem Creative Studio](arsana.kz)
+- 🔭 I’m currently working at Green Alem Creative Studio
 
 - 🌱 I’m currently learning **NestJs**
 
