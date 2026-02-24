@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/max-donut.gif" width="100%" />
+  <img src="max-donut.gif" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Mussin Maxim</h1>
