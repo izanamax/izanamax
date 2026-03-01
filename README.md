@@ -9,7 +9,7 @@
   <a href="https://linkedin.com/in/mxsln" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/mxsinst" target="_blank">
+  <a href="https://instagram.com/maximmussin" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://t.me/mxstg" target="_blank">
